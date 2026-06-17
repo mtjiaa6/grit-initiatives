@@ -1,2 +1,4 @@
 // New initiatives added via form submissions
-const NEW_DATA = {};
+const NEW_DATA = {
+  //@@NEW_ENTRIES_HERE@@
+};
